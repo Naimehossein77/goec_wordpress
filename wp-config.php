@@ -20,16 +20,16 @@
 define('FS_METHOD','direct');
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'goec' );
+define( 'DB_NAME', 'wordpress' );
 
 /** Database username */
-define( 'DB_USER', 'goecev' );
+define( 'DB_USER', 'admin' );
 
 /** Database password */
 define( 'DB_PASSWORD', '*G3c1(u[RSaX2D2T' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'database-2.cdctfmdnq0di.ap-south-1.rds.amazonaws.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
